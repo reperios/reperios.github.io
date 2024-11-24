@@ -28,7 +28,7 @@ html, body {
 
 body {
   font-family: Montserrat, sans-serif;
-  background-color: #121212;
+  background-color: #ededed;
   color: #d7d7d7;
   display: flex;
   flex-direction: column;
@@ -96,7 +96,7 @@ h2 {
 }
 
 .nav-button.active, .nav-button:hover {
-  background-color: #171717;
+  background-color: #0003ad;
   color: #edb049;
 }
 
@@ -105,7 +105,7 @@ h2 {
   display: flex;
   justify-content: center;
   padding: 10px;
-  background-color: #151515;
+  background-color: #05d208; /*lol*/
   border-radius: 5px;
   width: 100%;
   margin-top: 0; /* No margin at the top */
