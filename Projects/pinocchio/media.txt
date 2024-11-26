@@ -1,4 +1,4 @@
-https://github.com/reperios/portfolioimages/blob/main/Pinocchio_BasicBG_1_0324.png
+https://github.com/reperios/portfolioimages/blob/main/Pinocchio_BasicBG_1_0324.png?raw=true
 Pinocchio render 1
 
 https://example2.jpg
