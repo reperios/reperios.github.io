@@ -28,7 +28,7 @@ html, body {
 
 body {
   font-family: "Figtree", sans-serif;
-  background-color: #ededed;
+  background-color: #202020;
   color: #d7d7d7;
   display: flex;
   flex-direction: column;
@@ -46,8 +46,8 @@ h1 {
 h2 {
   font-size: 16px;
   margin: 0;
-  color: grey;
-  font-family: "EB Garamond", serif;
+  color: rgb(255, 255, 255); /*color of bio grey og*/
+  font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Safari */
   user-select: none;

@@ -13,7 +13,7 @@ html, body {
 
 body {
     font-family: "Figtree", sans-serif; /*font-family: Montserrat, sans-serif;*/
-    background-color: #f0f0f0; /*colorblock1 bg*/
+    background-color: #202020; /*colorblock1 bg*/
     color: #d7d7d7;
     display: flex;
     flex-direction: column;
@@ -36,22 +36,22 @@ body {
 }
 
 h1 {
-    font-family: "EB Garamond", serif;
+    font-family: "Figtree", sans-serif;
     font-size: 20px;
     margin: 0;
     margin-bottom: 5px;
     color: white;
     -webkit-user-select: none; /* Safari */
     user-select: none;
-    font-weight: 400;
+    font-weight: 600;
     text-align: left; /* Ensure all h1 elements are aligned to the left */
 }
 
 h2 {
     font-size: 16px;
     margin: 0;
-    color: grey; /*color of bio*/
-    font-family: "EB Garamond", serif;
+    color: rgb(255, 255, 255); /*color of bio*/
+    font-family: "Figtree", sans-serif;
     font-weight: 400;
     -webkit-user-select: none; /* Safari */
     user-select: none;

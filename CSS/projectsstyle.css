@@ -8,7 +8,7 @@
 /* Body Styling */
 body {
   font-family: "Figtree", sans-serif;
-  background-color: #b40000;
+  background-color: #202020;
   color: #d7d7d7;
   height: 100vh; /* Full viewport height */
   display: flex;
@@ -25,7 +25,7 @@ body {
 }
 
 h1 {
-  font-family: "EB Garamond", serif;
+  font-family: "Figtree", sans-serif;
   font-size: 20px;
   margin-bottom: 10px;
   color: white;
@@ -53,7 +53,7 @@ h3 {
 .media-container {
   position: relative;
   flex: 0 0 80%; /* Take up 80% of the width */
-  background-color: #e4e4e4;
+  background-color: #ffffff;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
