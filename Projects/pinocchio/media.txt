@@ -1,4 +1,4 @@
-https://github.com/reperios/portfolioimages/blob/main/Pinocchio_BasicBG_1_0324.png?raw=true
+https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
 Pinocchio render 1
 
 https://example2.jpg
@@ -8,10 +8,11 @@ https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgzeXZ6bzVuYThhZTV2eXF3NWhpdnN2MTJ
 https://example3.gif
 These aren't real images but need replacing with your own.
 
+https://www.youtube.com/watch?v=N08LnQ77hGs&t=1s&ab_channel=GawxArt
 https://examplevideo.mp4
 MP4's are also supported but like with images should be hosted somewhere like dropbox.
 
-https://beforepic.png // https://afterpic.png
+https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0002.png // https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
 You can create before and after slider by seperating two urls with ' // ' 
 
 https://sketchfabexample.com 
