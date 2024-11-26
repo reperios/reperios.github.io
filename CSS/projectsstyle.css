@@ -7,7 +7,7 @@
 
 /* Body Styling */
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Figtree", sans-serif;
   background-color: #121212;
   color: #d7d7d7;
   height: 100vh; /* Full viewport height */
@@ -43,7 +43,7 @@ h2 {
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 26px;
   font-weight: 100;
   -webkit-user-select: none; /* Standard property */
   user-select: none; /* Safari and iOS support */
