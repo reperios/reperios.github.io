@@ -24,10 +24,11 @@
 }
 
 .user-info-panel h1 {
-  font-size: 20px;
-  font-weight: 400;
+  font-family: "EB Garamond", serif;
+  font-size: 40px;
+  font-weight: 700;
   margin-bottom: 5px;
-  color: #f25858;
+  color: #E4007C;
 }
 
 .profile-pic {
