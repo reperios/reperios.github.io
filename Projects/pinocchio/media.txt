@@ -2,8 +2,9 @@ https://github.com/reperios/portfolioimages/blob/main/Pinocchio_BasicBG_1_0324.p
 Pinocchio render 1
 
 https://example2.jpg
-Description for example2.jpg.
+Example 2
 
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgzeXZ6bzVuYThhZTV2eXF3NWhpdnN2MTJyNXZ5bXY4Z3M4cmJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gdqI9PGKN0xooEa7j/giphy.gif
 https://example3.gif
 These aren't real images but need replacing with your own.
 
