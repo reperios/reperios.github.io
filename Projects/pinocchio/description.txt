@@ -2,7 +2,7 @@ Pinocchio
 ---
 Project Description
 ---
-Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max)
+Nomad, Maya, Motion Builder, Substance Painter
 ---
 https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
 ---
