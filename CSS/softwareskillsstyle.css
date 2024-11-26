@@ -27,7 +27,6 @@
 }
 
 .skills-panel .software-tag-container {
-    font-family: "EB Garamond", serif;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start; /* Align items to the start (left) */
