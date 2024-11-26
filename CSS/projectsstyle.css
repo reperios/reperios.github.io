@@ -112,6 +112,7 @@ h3 {
 }
 
 .project-description-container h1 {
+  font-family: "EB Garamond", serif;
   font-size: 16px;
   margin: 0;
   margin-bottom: 5px;
@@ -131,7 +132,7 @@ h3 {
   font-size: 14px;
   margin: 0;
   color: grey;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Standard property */
   user-select: none; /* Safari and iOS support */
