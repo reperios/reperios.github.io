@@ -8,7 +8,7 @@
 
 .production-subpanel {
     padding: 10px;
-    background-color: #202020; /*#121212*/
+    background-color: #191919; /*#121212*/
     border-radius: 5px;
     width: 65%; /* Adjusts the width to be 80% of the parent container */
     height: auto; /* Adjusts height based on content */

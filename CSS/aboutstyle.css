@@ -50,7 +50,7 @@ h1 {
 h2 {
     font-size: 16px;
     margin: 0;
-    color: rgb(255, 255, 255); /*color of bio*/
+    color: #d4d4d4; /*color of bio*/
     font-family: "Figtree", sans-serif;
     font-weight: 400;
     -webkit-user-select: none; /* Safari */

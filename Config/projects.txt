@@ -1,2 +1,2 @@
 pinocchio
-pinocchio2
+pinocho

@@ -38,7 +38,7 @@ h1 {
   font-size: 20px;
   margin: 0;
   margin-bottom: 5px;
-  color: #ffffff;
+  color: #d4d4d4;
   -webkit-user-select: none; /* Safari */
   user-select: none;
 }
@@ -46,7 +46,7 @@ h1 {
 h2 {
   font-size: 16px;
   margin: 0;
-  color: rgb(255, 255, 255); /*color of bio grey og*/
+  color: #d4d4d4; /*color of bio grey og*/
   font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Safari */
