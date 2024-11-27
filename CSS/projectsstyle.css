@@ -28,14 +28,14 @@ h1 {
   font-family: "Figtree", sans-serif;
   font-size: 20px;
   margin-bottom: 10px;
-  color: white;
+  color: #d4d4d4;
   -webkit-user-select: none; /* Standard property */
   user-select: none; /* Safari and iOS support */
 }
 
 h2 {
   font-size: 16px;
-  color: grey;
+  color: rgb(241, 122, 18);
   font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Standard property */
