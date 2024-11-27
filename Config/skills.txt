@@ -1,4 +1,5 @@
 Compositing
+Color Grading
 Video Editing
 Motion Graphics
 3D Animation
