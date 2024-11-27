@@ -132,7 +132,7 @@ h3 {
 .project-description-container p {
   font-size: 14px;
   margin: 0;
-  color: rgb(96, 0, 126);
+  color: gray;
   font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Standard property */
