@@ -1,9 +1,9 @@
-Pinocho
+Life as an NPC- VFX Phone Comp (2022)
 ---
-Project Description
+Seconds of a composition I created using After Effects Mocha for the Life as an NPC trailer.
 ---
-Nomad, Maya, Motion Builder, Substance Painter
+After Effects
 ---
-https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
+https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Screenshot%202024-11-27%20001738.png
 ---
-pinocho.html
+lifeasnpc.html
