@@ -1,10 +1,9 @@
-Blender
-3ds Max
-Unity
-Zbrush
+Davinci Resolve
+Fusion
+After Effects
+Premiere
 Adobe Photoshop
-Topogun
-Substance 3d Painter
-Marvelous Designer
+Substance 3D Painter
 Maya
-Marmoset Toolbag
+Blender
+Unity
