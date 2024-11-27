@@ -7,8 +7,7 @@ Pinocchio render 1
 https://example2.jpg
 Example 2
 
-https://example3.gif
-These aren't real images but need replacing with your own.
+
 
 
 
