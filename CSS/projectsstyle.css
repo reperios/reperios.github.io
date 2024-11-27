@@ -116,7 +116,7 @@ h3 {
   font-size: 16px;
   margin: 0;
   margin-bottom: 5px;
-  color: #d4d4d4;
+  color: #25d9fd;
   -webkit-user-select: none; /* Standard property */
   user-select: none; /* Safari and iOS support */
   color: #d4d4d4;
@@ -126,13 +126,13 @@ h3 {
 .project-description-container h2 {
   font-family: "Figtree", sans-serif;
   font-size: 10px;
-  color: white;
+  color: rgb(4, 143, 11);
 }
 
 .project-description-container p {
   font-size: 14px;
   margin: 0;
-  color: rgb(255, 255, 255);
+  color: rgb(96, 0, 126);
   font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Standard property */
