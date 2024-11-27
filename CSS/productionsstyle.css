@@ -62,15 +62,16 @@
 
 .production-subpanel h2 {
     font-size: 20px; /* Font size for the title */
+    font-weight: 500;
     margin: 5px 0; /* Margins for spacing */
-    color: #d7d7d7; /* Text color */
+    color: #7800c7; /* Text color */
     text-align: left; /* Aligns text to the left */
 }
 
 .production-subpanel p {
     margin: 5px 0; /* Margins for spacing */
     font-family: "Figtree", sans-serif;
-    color: grey; /* Text color */
+    color: rgb(219, 255, 160); /* Text color */
     text-align: left; /* Aligns text to the left */
 }
 
