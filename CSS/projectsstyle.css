@@ -116,10 +116,10 @@ h3 {
   font-size: 16px;
   margin: 0;
   margin-bottom: 5px;
-  color: white;
+  color: #d4d4d4;
   -webkit-user-select: none; /* Standard property */
   user-select: none; /* Safari and iOS support */
-  color: #d7d7d7;
+  color: #00f76f;
   font-weight: 600;
 }
 
