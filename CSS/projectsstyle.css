@@ -26,7 +26,7 @@ body {
 
 h1 {
   font-family: "Figtree", sans-serif;
-  font-size: 30px;
+  font-size: 50px;
   margin-bottom: 10px;
   color: #d4d4d4;
   -webkit-user-select: none; /* Standard property */
@@ -35,7 +35,7 @@ h1 {
 
 h2 {
   font-size: 16px;
-  color: rgb(241, 122, 18);
+  color: #d4d4d4;
   font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Standard property */
