@@ -35,7 +35,7 @@ h1 {
 
 h2 {
   font-size: 16px;
-  color: #fc3434;
+  color: gray;
   font-family: "Figtree", sans-serif;
   font-weight: 400;
   -webkit-user-select: none; /* Standard property */
