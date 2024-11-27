@@ -10,6 +10,7 @@ body {
   font-family: "Figtree", sans-serif;
   background-color: #191919;
   color: #d4d4d4;
+  font-weight: 500;
   height: 100vh; /* Full viewport height */
   display: flex;
   justify-content: center;
