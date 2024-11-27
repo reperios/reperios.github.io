@@ -8,8 +8,7 @@ https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgzeXZ6bzVuYThhZTV2eXF3NWhpdnN2MTJ
 https://example3.gif
 These aren't real images but need replacing with your own.
 
-https://www.youtube.com/watch?v=N08LnQ77hGs&t=1s&ab_channel=GawxArt
-https://examplevideo.mp4
+https://www.youtube.com/watch?v=sGPCHDnmkWk&ab_channel=NormaRodriguez
 MP4's are also supported but like with images should be hosted somewhere like dropbox.
 
 https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0002.png // https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
