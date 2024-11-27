@@ -3,6 +3,7 @@ Pinocchio render 1
 
 https://example2.jpg
 Example 2
+https://examplevideo.mp4
 
 https://www.youtube.com/watch?v=N08LnQ77hGs&t=1s&ab_channel=GawxArt
 
