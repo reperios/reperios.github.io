@@ -1,6 +1,7 @@
 Pinocchio
 ---
-Project Description
+I loved Guillermo del Toro's Pinocchio, the storytelling, lighting and models brought me to life. I wanted to see if I could recreate the main little guy for
+a mocap project.
 ---
 Nomad, Maya, Motion Builder, Substance Painter
 ---
