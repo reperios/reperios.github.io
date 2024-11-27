@@ -1,3 +1,2 @@
 pinocchio
-pinocho
 lifeasnpc
