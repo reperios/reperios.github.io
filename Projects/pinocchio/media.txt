@@ -1,15 +1,13 @@
-https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
+https://youtu.be/iWqwKd87KYs
 Pinocchio render 1
 
 https://example2.jpg
 Example 2
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgzeXZ6bzVuYThhZTV2eXF3NWhpdnN2MTJyNXZ5bXY4Z3M4cmJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gdqI9PGKN0xooEa7j/giphy.gif
-https://example3.gif
+https://github.com/reperios/portfolioimages/blob/main/Pinocchio%20Render%20W%20Mocapdata%20(1).gif?raw=true
 These aren't real images but need replacing with your own.
 
-https://www.youtube.com/watch?v=N08LnQ77hGs&t=1s&ab_channel=GawxArt
-https://examplevideo.mp4
+https://sketchfab.com/3d-models/pinnochiosculpt2023-nr-2-0dbc79995e004cd28dfcc6dcc4cd7c99
 MP4's are also supported but like with images should be hosted somewhere like dropbox.
 
 https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0002.png // https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
