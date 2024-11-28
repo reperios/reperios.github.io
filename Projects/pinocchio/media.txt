@@ -14,3 +14,8 @@ https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinoc
 You can create before and after slider by seperating two urls with ' // ' 
 
 https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/PinochoSwag.jpgs
+raw swag
+
+
+
+
