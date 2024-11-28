@@ -4,7 +4,7 @@ Pinocchio render 1
 https://example2.jpg
 Example 2
 
-https://github.com/reperios/portfolioimages/blob/main/Pinocchio%20Render%20W%20Mocapdata%20(1).gif?raw=true
+https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/PinochoSwag.jpgs
 These aren't real images but need replacing with your own.
 
 https://sketchfab.com/3d-models/pinnochiosculpt2023-nr-2-0dbc79995e004cd28dfcc6dcc4cd7c99
