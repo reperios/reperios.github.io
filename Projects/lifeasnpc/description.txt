@@ -4,6 +4,6 @@ Seconds of a composition I created using After Effects Mocha for the Life as an 
 ---
 After Effects
 ---
-https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Screenshot%202024-11-27%20001738.png
+https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0192.png
 ---
 lifeasnpc.html
