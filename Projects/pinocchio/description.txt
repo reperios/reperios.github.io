@@ -5,6 +5,6 @@ a mocap project.
 ---
 Nomad, Maya, Motion Builder, Substance Painter
 ---
-https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
+https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0192.png
 ---
 pinocchio.html
