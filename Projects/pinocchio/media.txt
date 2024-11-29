@@ -13,7 +13,7 @@ MP4's are also supported but like with images should be hosted somewhere like dr
 https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0002.png // https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/Pinocchio_BasicBG_1_0324.png
 You can create before and after slider by seperating two urls with ' // ' 
 
-https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/PinochoSwag.jpgs
+https://raw.githubusercontent.com/reperios/portfolioimages/refs/heads/main/pinochoswagpng.png
 raw swag
 
 
